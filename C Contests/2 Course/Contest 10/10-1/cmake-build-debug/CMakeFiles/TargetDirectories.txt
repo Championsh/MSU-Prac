@@ -1,0 +1,3 @@
+/home/champion/C/Contest 10/10-1/cmake-build-debug/CMakeFiles/10_1.dir
+/home/champion/C/Contest 10/10-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/champion/C/Contest 10/10-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
