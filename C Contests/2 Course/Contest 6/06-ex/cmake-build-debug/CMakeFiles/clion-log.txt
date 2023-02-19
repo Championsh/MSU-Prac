@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/champion/C/Contest 6/06-ex Select CMakeLists.txt
