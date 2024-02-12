@@ -1,0 +1,100 @@
+MINI_DATASET
+Time in seconds = 0.000098
+Time in seconds = 0.000126
+Time in seconds = 0.000113
+Time in seconds = 0.000115
+Time in seconds = 0.000117
+Time in seconds = 0.000116
+Time in seconds = 0.000117
+Time in seconds = 0.000118
+Time in seconds = 0.000224
+Time in seconds = 0.000117
+Time in seconds = 0.000268
+Time in seconds = 0.000155
+Time in seconds = 0.000181
+Time in seconds = 0.000624
+Time in seconds = 0.010409
+Time in seconds = 0.001207
+Time in seconds = 0.021154
+Time in seconds = 0.003567
+
+SMALL_DATASET
+Time in seconds = 0.001435
+Time in seconds = 0.000855
+Time in seconds = 0.000630
+Time in seconds = 0.000554
+Time in seconds = 0.000684
+Time in seconds = 0.000569
+Time in seconds = 0.000563
+Time in seconds = 0.000565
+Time in seconds = 0.000506
+Time in seconds = 0.000563
+Time in seconds = 0.000488
+Time in seconds = 0.000657
+Time in seconds = 0.001439
+Time in seconds = 0.002065
+Time in seconds = 0.004804
+Time in seconds = 0.010760
+Time in seconds = 0.075197
+Time in seconds = 0.013584
+
+MEDIUM_DATASET
+Time in seconds = 0.030950
+Time in seconds = 0.015757
+Time in seconds = 0.010948
+Time in seconds = 0.013294
+Time in seconds = 0.010727
+Time in seconds = 0.010099
+Time in seconds = 0.008227
+Time in seconds = 0.011143
+Time in seconds = 0.009153
+Time in seconds = 0.008991
+Time in seconds = 0.007773
+Time in seconds = 0.006208
+Time in seconds = 0.007516
+Time in seconds = 0.012551
+Time in seconds = 0.025879
+Time in seconds = 0.062892
+Time in seconds = 0.096615
+Time in seconds = 0.046144
+
+
+LARGE_DATASET
+Time in seconds = 4.616272
+Time in seconds = 21.250584
+Time in seconds = 14.202470
+Time in seconds = 10.779199
+Time in seconds = 8.888215
+Time in seconds = 7.249816
+Time in seconds = 6.511162
+Time in seconds = 5.760986
+Time in seconds = 5.353808
+Time in seconds = 5.094970
+Time in seconds = 4.207978
+Time in seconds = 3.610133
+Time in seconds = 4.554574
+Time in seconds = 4.920850
+Time in seconds = 4.254888
+Time in seconds = 9.050066
+Time in seconds = 9.553945
+Time in seconds = 9.407244
+
+EXTRALARGE_DATASET
+Time in seconds = 54.045665
+Time in seconds = 29.947176
+Time in seconds = 21.528377
+Time in seconds = 17.294360
+Time in seconds = 14.443447
+Time in seconds = 12.276422
+Time in seconds = 11.147489
+Time in seconds = 14.144774
+Time in seconds = 18.805616
+Time in seconds = 26.531700
+Time in seconds = 21.863471
+Time in seconds = 14.565721
+Time in seconds = 14.064640
+Time in seconds = 13.674531
+Time in seconds = 14.325597
+Time in seconds = 14.670082
+Time in seconds = 12.279251
+Time in seconds = 13.604700

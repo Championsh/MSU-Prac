@@ -1,0 +1,87 @@
+MINI_DATASET
+
+Time in seconds = 0.162642
+Time in seconds = 0.082054
+Time in seconds = 0.077119
+Time in seconds = 0.059068
+Time in seconds = 0.074727
+Time in seconds = 0.055627
+Time in seconds = 0.060808
+Time in seconds = 0.051853
+Time in seconds = 0.042352
+Time in seconds = 0.062632
+Time in seconds = 0.035805
+Time in seconds = 0.022303
+
+SMALL_DATASET
+
+Time in seconds = 0.162455
+Time in seconds = 0.081802
+Time in seconds = 0.057535
+Time in seconds = 0.065695
+Time in seconds = 0.033993
+Time in seconds = 0.041399
+Time in seconds = 0.036819
+Time in seconds = 0.039538
+Time in seconds = 0.028955
+Time in seconds = 0.042886
+Time in seconds = 0.036904
+Time in seconds = 0.023211
+
+MEDIUM_DATASET
+
+Time in seconds = 0.162430
+Time in seconds = 0.081808
+Time in seconds = 0.057492
+Time in seconds = 0.063315
+Time in seconds = 0.051286
+Time in seconds = 0.055720
+Time in seconds = 0.034300
+Time in seconds = 0.052775
+Time in seconds = 0.043091
+Time in seconds = 0.041186
+Time in seconds = 0.040368
+Time in seconds = 0.023172
+
+LARGE_DATASET
+
+Time in seconds = 214.348356
+Time in seconds = 109.878078
+Time in seconds = 74.063190
+Time in seconds = 57.727911
+Time in seconds = 46.990328
+Time in seconds = 41.252539
+Time in seconds = 37.769101
+Time in seconds = 33.746491
+Time in seconds = 28.775381
+Time in seconds = 26.684830
+Time in seconds = 15.306801
+Time in seconds = 10.646983
+Time in seconds = 7.782984
+Time in seconds = 9.002859
+Time in seconds = 6.383688
+Time in seconds = 6.944680
+Time in seconds = 10.031258
+Time in seconds = 9.939608
+
+
+EXTRALARGE_DATASET
+
+Time in seconds = 214.171015
+Time in seconds = 108.110487
+Time in seconds = 73.946757
+Time in seconds = 55.647290
+Time in seconds = 47.877265
+Time in seconds = 39.283164
+Time in seconds = 35.653036
+Time in seconds = 32.383786
+Time in seconds = 29.195421
+Time in seconds = 31.386921
+Time in seconds = 28.259369
+Time in seconds = 24.079908
+Time in seconds = 24.826867
+Time in seconds = 15.778859
+Time in seconds = 12.093410
+Time in seconds = 11.972008
+Time in seconds = 18.193818
+Time in seconds = 14.925685
