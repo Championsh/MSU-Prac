@@ -1,3 +1,0 @@
-/home/champion/C/Contest 12/ 12-2/cmake-build-debug/CMakeFiles/_12_2.dir
-/home/champion/C/Contest 12/ 12-2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/champion/C/Contest 12/ 12-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

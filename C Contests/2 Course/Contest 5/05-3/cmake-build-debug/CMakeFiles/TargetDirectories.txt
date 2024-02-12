@@ -1,3 +1,0 @@
-/home/champion/C/Contest 5/05-3/cmake-build-debug/CMakeFiles/05_3.dir
-/home/champion/C/Contest 5/05-3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/champion/C/Contest 5/05-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
